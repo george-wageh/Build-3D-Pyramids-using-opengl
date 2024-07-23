@@ -1,0 +1,112 @@
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.exe.config
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.exe
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.pdb
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.exe
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.pdb
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\bin\Debug\Graphics.pdb
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\bin\Debug\GlmNet.dll
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\bin\Debug\GlmNet.xml
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\obj\Debug\Graphics.exe
+C:\Users\MarwaShams\Desktop\2023\New folder\lab 3 - 3d\3D drawing - STUD\Graphics\obj\Debug\Graphics.pdb
+F:\fcis\3D drawing - Complete\Graphics\bin\Debug\Graphics.exe.config
+F:\fcis\3D drawing - Complete\Graphics\bin\Debug\Graphics.exe
+F:\fcis\3D drawing - Complete\Graphics\bin\Debug\Graphics.pdb
+F:\fcis\3D drawing - Complete\Graphics\bin\Debug\GlmNet.dll
+F:\fcis\3D drawing - Complete\Graphics\bin\Debug\GlmNet.pdb
+F:\fcis\3D drawing - Complete\Graphics\bin\Debug\GlmNet.xml
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.csproj.SuggestedBindingRedirects.cache
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.exe
+F:\fcis\3D drawing - Complete\Graphics\obj\Debug\Graphics.pdb
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\bin\Debug\Graphics.exe.config
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\bin\Debug\Graphics.exe
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\bin\Debug\Graphics.pdb
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\bin\Debug\GlmNet.dll
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\bin\Debug\GlmNet.pdb
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\bin\Debug\GlmNet.xml
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.csproj.SuggestedBindingRedirects.cache
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.exe
+F:\fcis\current\3D drawing - Complete ass 02\Graphics\obj\Debug\Graphics.pdb
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\bin\Debug\Graphics.exe.config
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\bin\Debug\Graphics.exe
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\bin\Debug\Graphics.pdb
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\bin\Debug\GlmNet.dll
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\bin\Debug\GlmNet.pdb
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\bin\Debug\GlmNet.xml
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\obj\Debug\Graphics.exe
+F:\fcis\current\3D drawing - Complete ass 03\Graphics\obj\Debug\Graphics.pdb

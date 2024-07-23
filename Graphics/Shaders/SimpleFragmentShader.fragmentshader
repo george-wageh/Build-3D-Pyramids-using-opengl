@@ -1,0 +1,20 @@
+#version 330 core
+
+// Ouput data
+out vec3 color;
+in vec2 Tex;
+
+in vec3 pixelcolor;
+uniform sampler2D myTexSampler;
+
+flat in int case2;
+void main()
+{
+	if(case2 == 0){
+		color = pixelcolor;
+	}
+	else{
+		color = texture(myTexSampler,Tex).rgb;
+	}
+
+}
