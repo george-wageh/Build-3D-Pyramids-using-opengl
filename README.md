@@ -2,4 +2,4 @@ Created this drawing using C# with OpenGL, added animation, and implemented the 
 
 ![3D Pyramids](https://raw.githubusercontent.com/george-wageh/Build-3D-Pyramids-using-opengl/main/20201700211.jpg)
 
-[Watch the video](https://raw.githubusercontent.com/george-wageh/Build-3D-Pyramids-using-opengl/main/video%20.mp4)
+[Watch the video](https://github.com/george-wageh/Build-3D-Pyramids-using-opengl/blob/main/video%20.mp4)
